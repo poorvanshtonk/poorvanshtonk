@@ -90,3 +90,7 @@ MySQL • PostgreSQL
   <a href="#">Portfolio</a> •
   <a href="mailto:mr.poorvanshr@email.com">Email</a>
 </p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/poorvanshtonk/poorvanshtonk/output/github-contribution-grid-snake.svg" />
+</p>
