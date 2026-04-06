@@ -13,33 +13,41 @@
 </p>
 
 ---
-
 ## 🚀 About Me
 
 <p align="center">
 
-| 🚀 Focus | 💡 Details |
-|--------|----------|
-| 🧠 AI Systems | Building AI-powered products |
-| 🔐 Cybersecurity | Exploring security & AI safety |
-| 🌍 Problem Solving | Real-world impactful solutions |
-| 🚀 Startups | Passionate about building & scaling |
+<img src="https://img.shields.io/badge/🧠_AI_Systems-Building_AI_Products-0A192F?style=for-the-badge&color=0A192F&labelColor=111827" />
+<img src="https://img.shields.io/badge/🔐_Cybersecurity-AI_Safety-0A192F?style=for-the-badge&color=0A192F&labelColor=111827" />
+<img src="https://img.shields.io/badge/🌍_Problem_Solving-Real_World-0A192F?style=for-the-badge&color=0A192F&labelColor=111827" />
+<img src="https://img.shields.io/badge/🚀_Startups-Building_%26_Scaling-0A192F?style=for-the-badge&color=0A192F&labelColor=111827" />
 
 </p>
 
 ---
-
 ## 🧠 Projects
 
-| 🚀 Project | 💡 Description |
-|----------|--------------|
-| 🤖 AI Chatbot | Local LLM chatbot using React + Flask + Ollama |
-| 🛡️ Phishing URL Detector | Detects malicious URLs |
-| 🔐 AI Trust Framework | AI safety & trust evaluation |
-| 🚀 Startup Collabrio | Cofounder matching platform |
-| 🛒 E-Commerce | Full-stack web app |
-| 🧮 React Calculator | UI + logic fundamentals |
+<p align="center">
 
+### 🤖 AI Chatbot  
+<sub>Local LLM chatbot using React + Flask + Ollama</sub>
+
+<br/>
+
+### 🛡️ Phishing URL Detector  
+<sub>Detects malicious URLs</sub>
+
+<br/>
+
+### 🔐 AI Trust Framework  
+<sub>AI safety & trust evaluation</sub>
+
+<br/>
+
+### 🚀 Startup Collabrio  
+<sub>Cofounder matching platform</sub>
+
+</p>
 ---
 
 ## 🛠️ Tech Stack
@@ -68,8 +76,6 @@
 <p align="center">
 <img src="https://skillicons.dev/icons?i=mysql,postgres" />
 </p>
-
----
 
 ## 📊 GitHub Stats
 <p align="center">
