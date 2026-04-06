@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/poorvanshtonk/poorvanshtonk/main/banner.png" />
+</p>
 <h1 align="center">Hi 👋, I'm Poorvansh Tonk</h1>
 <h3 align="center">🚀 AI Builder | Startup Enthusiast | Open Source Contributor</h3>
 
