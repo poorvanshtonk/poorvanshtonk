@@ -81,8 +81,7 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="#">LinkedIn</a> •
-  <a href="#">Twitter</a> •
+  <a href="https://www.linkedin.com/in/poorvansh-tonk-7170b8366/">LinkedIn</a> •
   <a href="#">Portfolio</a>
 </p>
 
