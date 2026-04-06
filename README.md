@@ -74,13 +74,12 @@ MySQL • PostgreSQL
 ## 📊 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=poorvanshtonk&show_icons=true&theme=transparent&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=poorvanshtonk" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=poorvanshtonk&theme=transparent&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=poorvanshtonk&theme=tokyonight" />
 </p>
-
 ---
 
 ## 🌐 Connect
